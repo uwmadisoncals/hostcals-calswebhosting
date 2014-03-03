@@ -9,6 +9,7 @@ Version:        0.1.0
 */
 
 @import url("../calsmain2013/master.css");
+@import url("master-child.css");
 
 
 /**  Child them styles **/
